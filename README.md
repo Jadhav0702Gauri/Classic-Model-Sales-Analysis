@@ -3,13 +3,13 @@
 ## Contents
 
 **Directory Structure:**
-- `sql`: Contains SQL queries for extracting data for analysis.
+- [`sql`](https://github.com/Jadhav0702Gauri/Classic-Model-Sales-Analysis/blob/main/Classic%20models%20data.sql)>: Contains SQL queries for extracting data for analysis.
 
 **Data Visualization:**
-- `Excel`: Utilized to create a comprehensive view of sales insights.
+- [`Excel`](https://github.com/Jadhav0702Gauri/Classic-Model-Sales-Analysis/blob/main/Classic%20Model%20analysis.xlsx): Utilized to create a comprehensive view of sales insights.
 
 **Dashboard:**
-- `sales_dashboard.pdf`: Power BI dashboard presenting visualizations of sales, profit, and performance metrics.
+- [`sales_dashboard.pdf`](https://github.com/Jadhav0702Gauri/Classic-Model-Sales-Analysis/blob/main/Classic%20Models%20Dashboard.pdf): Power BI dashboard presenting visualizations of sales, profit, and performance metrics.
 
 ### SQL Queries
 
