@@ -3,7 +3,7 @@
 ## Contents
 
 **Directory Structure:**
-- [`sql`](https://github.com/Jadhav0702Gauri/Classic-Model-Sales-Analysis/blob/main/Classic%20models%20data.sql)>: Contains SQL queries for extracting data for analysis.
+- [`sql`](https://github.com/Jadhav0702Gauri/Classic-Model-Sales-Analysis/blob/main/Classic%20models%20data.sql): Contains SQL queries for extracting data for analysis.
 
 **Data Visualization:**
 - [`Excel`](https://github.com/Jadhav0702Gauri/Classic-Model-Sales-Analysis/blob/main/Classic%20Model%20analysis.xlsx): Utilized to create a comprehensive view of sales insights.
